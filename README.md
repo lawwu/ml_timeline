@@ -1,11 +1,14 @@
 # ML News
 
 ## April 2023
-* 16: CAMEL: Physics, Chemistry and Biology datasets ([tweet](https://twitter.com/hammh0a/status/1647415963644760064))
+* 17: Generative Agents paper's (Park et all) long-term, reflection based memory implemented in langchain ([tweet](https://twitter.com/hwchase17/status/1647987713449263106))
+* 16: CAMEL: Physics, Chemistry and Biology datasets ([tweet](https://twitter.com/hammh0a/status/1647415963644760064), but @jeremyphoward [points out the evaluation is a little sketchy](https://twitter.com/jeremyphoward/status/1647714442355015680))
+* 15: OpenAssistant released along with 600k human generated datapoints ([tweet](https://twitter.com/ykilcher/status/1647283816384405505), )
 * 15: ControlNet 1.1 ([tweet](https://twitter.com/huggingface/status/1647017924459126784))
 * 12: DeepSpeed Chat - DeepSpeed Chat offers an end-to-end RLHF pipeline to train ChatGPT-like models. This is the missing piece from other efforts like Alpaca and Vicuna. The RLHF pipeline is replicated from the InstructGPT paper. ([tweet](https://twitter.com/omarsar0/status/1645936415941836804))
 * 12: Dolly 2.0 - Introducing the first *commercially viable*, open source, instruction-following LLM. Dolly 2.0 is available for commercial applications without having to pay for API access or sharing data with 3rd parties. ([post](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm), [tweet](https://twitter.com/alighodsi/status/1646151697415168006))
 * 9: baby GPT from Andrej Karpathy "I think it's interesting to train/study tiny GPTs because it becomes tractable to visualize and get an intuitive sense of the entire dynamical system." ([tweet](https://twitter.com/karpathy/status/1645115622517542913))
+* 9: Generative Agents: Interactive Simulacra of Human Behavior ([paper](https://arxiv.org/abs/2304.03442))
 * 7: SegGPT: Segmenting Everything in context ([tweet](https://twitter.com/_akhaliq/status/1644147931178496001))
 * 6: Vicuna-7B weights are released ([tweet](https://twitter.com/lmsysorg/status/1644060638472470528))
 * 6: StackLlama ([tweet](https://twitter.com/lvwerra/status/1643998302738759683))

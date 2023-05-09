@@ -1,8 +1,17 @@
 # ML News
 
+## May 2023
+
+* 9: Language models can explain neurons in language models. ([tweet](https://twitter.com/janleike/status/1655982055736643585), [post](https://openai.com/research/language-models-can-explain-neurons-in-language-models))
+* 5: Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs ([post](https://www.mosaicml.com/blog/mpt-7b))
+* 4: StarCoder: A State-of-the-Art LLM for Code ([post](https://huggingface.co/blog/starcoder))
+* 3: OpenLLaMA: An Open Reproduction of LLaMA ([post](https://huggingface.co/openlm-research/open_llama_7b_preview_300bt))
+
 ## April 2023
 * 25: HuggingChat: Making the best open source AI chat models available to everyone. ([site](https://huggingface.co/chat/), [tweet](https://twitter.com/julien_c/status/1650884245823320065))
 * 19: StableLM: Stability AI's first LLM. They released 3B and 7B param models, with 15-65B to follow. ([tweet](https://twitter.com/StabilityAI/status/1648706156330876928))
+* 17: RedPajama, a project to create leading open-source models, starts by reproducing LLaMA training dataset of over 1.2 trillion tokens
+ ([post](https://www.together.xyz/blog/redpajama), [dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T))
 * 17: Generative Agents paper's (Park et all) long-term, reflection based memory implemented in langchain ([tweet](https://twitter.com/hwchase17/status/1647987713449263106))
 * 16: CAMEL: Physics, Chemistry and Biology datasets ([tweet](https://twitter.com/hammh0a/status/1647415963644760064), but @jeremyphoward [points out the evaluation is a little sketchy](https://twitter.com/jeremyphoward/status/1647714442355015680))
 * 15: OpenAssistant released along with 600k human generated datapoints ([tweet](https://twitter.com/ykilcher/status/1647283816384405505), )

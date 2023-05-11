@@ -2,6 +2,7 @@
 
 ## May 2023
 
+* 10: Transformers Agents from HuggingFace ([tweet](https://twitter.com/huggingface/status/1656334778407297027), [docs](https://huggingface.co/docs/transformers/transformers_agents))
 * 9: Language models can explain neurons in language models. ([tweet](https://twitter.com/janleike/status/1655982055736643585), [post](https://openai.com/research/language-models-can-explain-neurons-in-language-models))
 * 5: Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs ([post](https://www.mosaicml.com/blog/mpt-7b))
 * 4: StarCoder: A State-of-the-Art LLM for Code ([post](https://huggingface.co/blog/starcoder))
@@ -75,3 +76,6 @@
 
 ## August 2022
 * 21: Emergent Abilities of Large Language Models ([paper](https://openreview.net/forum?id=yzkSU5zdwD), [blog](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html))
+
+## July 2022
+* 20: Donut released - OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG) ([repo](https://github.com/clovaai/donut))

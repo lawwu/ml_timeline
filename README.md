@@ -2,8 +2,10 @@
 
 ## May 2023
 
+* 15: Open LLM Leaderboard from Huggingface ([link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard))
 * 10: Transformers Agents from HuggingFace ([tweet](https://twitter.com/huggingface/status/1656334778407297027), [docs](https://huggingface.co/docs/transformers/transformers_agents))
 * 9: Language models can explain neurons in language models. ([tweet](https://twitter.com/janleike/status/1655982055736643585), [post](https://openai.com/research/language-models-can-explain-neurons-in-language-models))
+* 8: ImageBind: One Embedding Space to Bind Them All ([post](https://imagebind.metademolab.com/), [repo](https://github.com/facebookresearch/ImageBind))
 * 5: Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs ([post](https://www.mosaicml.com/blog/mpt-7b))
 * 4: StarCoder: A State-of-the-Art LLM for Code ([post](https://huggingface.co/blog/starcoder))
 * 3: OpenLLaMA: An Open Reproduction of LLaMA ([post](https://huggingface.co/openlm-research/open_llama_7b_preview_300bt))

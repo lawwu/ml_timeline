@@ -2,6 +2,7 @@
 
 ## May 2023
 
+* 26: Voyager: An Open-Ended Embodied Agent with Large Language Models - the first lifelong learning agent that plays Minecraft purely in-context. Voyager continuously improves itself by writing, refining, committing, and retrieving *code* from a skill library. ([tweet](https://twitter.com/DrJimFan/status/1662115266933972993), [repo](https://github.com/MineDojo/Voyager), [paper](https://arxiv.org/abs/2305.16291))
 * 25: AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback. ([post](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html), [repo](https://github.com/tatsu-lab/alpaca_farm), [paper](https://tatsu-lab.github.io/alpaca_farm_paper.pdf))
 * 24: QLorA: Efficient Finetuning of Quantized LLMs. With it comes Guanaco, a chatbot on a single GPU, achieving 99% ChatGPT performance on the Vicuna benchmark. ([paper](https://arxiv.org/abs/2305.14314), [repo](https://github.com/artidoro/qlora), [tweet](https://twitter.com/Tim_Dettmers/status/1661379354507476994))
 * 15: Open LLM Leaderboard from Huggingface ([link](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard))
